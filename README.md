@@ -1,4 +1,4 @@
-# Dijkstra Vaccine Graph (CS220)
+# Dijkstra Vaccine Graph (CS220 Project)
 
 ## Objective
  - Implements Dijkstra's algorithm to find the fastest 
@@ -8,7 +8,7 @@
    index of the vertex list.
      
 ## Usage
-  Upon running main, user is prompted with an
+  - Upon running main, user is prompted with an
   input for a filename with the corresponding layout
   located in this project's rubric. Upon submitting a
   valid filename, the program will run and output a list
@@ -16,10 +16,10 @@
   the source node
 
 # Import Syntax
-```
-<start> <end> <weight>
-1 2 2
-1 2 1
-2 1 2
-etc...
-```
+ ```
+ <start> <end> <weight>
+ 1 2 2
+ 1 2 1
+ 2 1 2
+ etc...
+ ```
